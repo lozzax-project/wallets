@@ -1,3 +1,5 @@
 # wallets
 
-fc4bf61fda96e307a3b626ba0b3b0c3fe06b1d7c15ce24127e762efa08fa0b88  lozzax-linux-x64-v0.17.3.1.tar.bz2
+```text
+9959f875899002c6aea9256da882405a6c164ad0b67a69cf718489929c4ee4d4  lozzax-linux-x64-v0.17.3.2.tar.bz2
+```
